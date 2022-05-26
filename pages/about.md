@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid=objects/UP_LISSA_Cover_Pic.png %}
+{% include feature/jumbotron.html objectid="https://raw.githubusercontent.com/KhayeCeeAB/UPLISSAMemoirs/main/objects/UP_LISSA_Cover.png" %}
 
 {% include feature/nav-menu.html sections="About UP LISSA;About the About Page" %}
 
